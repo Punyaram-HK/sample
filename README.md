@@ -1,2 +1,2 @@
 # sample
-simple program
+simple programs
